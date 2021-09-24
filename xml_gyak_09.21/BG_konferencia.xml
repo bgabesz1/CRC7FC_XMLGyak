@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<konferencia>
+<cim>Biológia</cim>
+<halgatók>
+    <halgató nev="Baranyi_Gabor" lakcim="Szentistvan,Damjanich_u.46"/>
+</halgatók>
+<helyszín>Miskolc,Route.66</helyszín>
+<előadó nev="Erős_Nándor" adoszam="83472939" lakcim="Ózd,Mixáth_u.24"/>
+<Dátum> 2021.09.21.</Dátum>
+</konferencia>
