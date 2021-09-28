@@ -1,3 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<könyv>Excel 2019</könyv>
-<szerzo></szerzo>
+<!DOCTYPE konyvek SYSTEM "BG_konyv.dtd">
+<konyvek>
+    <konyv id="asdfy">
+        <cím>Excel 2019</cím>
+        <kiadásiev>2021</kiadásiev>
+        <kiado>TARAMIX Kiadó Kft. </kiado>
+        <szerzo>Szabó Ildikó</szerzo>
+    </konyv>
+    <konyv id="yxckmna">
+        <cím>Szövegbányászat és mesterséges intelligencia R-ben</cím>
+        <kiadásiev>2021</kiadásiev>
+        <kiado>Typotex Elektronikus Kiadó Kft.</kiado>
+        <szerzo> Máté Ákos</szerzo>
+        <szerzo>Ring Orsolya</szerzo>
+        <szerzo>Sebők Miklós </szerzo>
+    </konyv>
+    <konyv id="akpmac">
+        <cím>Word 2019</cím>
+        <kiadásiev>2021</kiadásiev>
+        <kiado>TARAMIX Kiadó Kft. </kiado>
+        <szerzo>Dávid Krisztina</szerzo>
+    </konyv>
+</konyvek>
