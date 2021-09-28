@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE adatbazis SYSTEM "BG_adatbazis.dtd">
+<adatbazis>
+    <dolgozo kod="123" nev="Baranyi Gábor" fizetes="23423419"/>
+</adatbazis>
