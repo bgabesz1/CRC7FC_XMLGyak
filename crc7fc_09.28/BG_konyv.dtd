@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<!ELEMENT konyvek (konyv*)>
-	<!ELEMENT konyv (cím, kiadásiev, kiado, szerzo+)>
+	<!ELEMENT konyv (cím, kiadásiev, kiado, szerzo+, abstract?)>
 		<!ATTLIST konyv id ID #REQUIRED>
 		<!ELEMENT cím (#PCDATA)>
 		<!ELEMENT kiadásiev (#PCDATA)>
 		<!ELEMENT kiado (#PCDATA)>
 		<!ELEMENT szerzo (#PCDATA)>
+		<!ELEMENT abstract (#PCDATA)>
