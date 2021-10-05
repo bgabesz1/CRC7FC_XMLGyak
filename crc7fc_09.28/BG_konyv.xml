@@ -4,7 +4,7 @@
     <konyv id="asdfy">
         <cím>Excel 2019</cím>
         <kiadásiev>2021</kiadásiev>
-        <kiado>TARAMIX Kiadó Kft. </kiado>
+        <kiado>TARAMIX Kiadó Kft.</kiado>
         <szerzo>Szabó Ildikó</szerzo>
         <abstract>Informatikai könyv</abstract>
     </konyv>
@@ -12,15 +12,15 @@
         <cím>Szövegbányászat és mesterséges intelligencia R-ben</cím>
         <kiadásiev>2021</kiadásiev>
         <kiado>Typotex Elektronikus Kiadó Kft.</kiado>
-        <szerzo> Máté Ákos</szerzo>
+        <szerzo>Máté Ákos</szerzo>
         <szerzo>Ring Orsolya</szerzo>
-        <szerzo>Sebők Miklós </szerzo>
+        <szerzo>Sebők Miklós</szerzo>
         <abstract>Informatikai könyv</abstract>
     </konyv>
     <konyv id="akpmac">
         <cím>Word 2019</cím>
         <kiadásiev>2021</kiadásiev>
-        <kiado>TARAMIX Kiadó Kft. </kiado>
+        <kiado>TARAMIX Kiadó Kft.</kiado>
         <szerzo>Dávid Krisztina</szerzo>
         <abstract>Informatikai könyv</abstract>
     </konyv>
