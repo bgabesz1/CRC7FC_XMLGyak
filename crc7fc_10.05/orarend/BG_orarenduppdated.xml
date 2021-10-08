@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <napok xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="BG_orarenduppdated.xsd">
+    
 <hétfő>
     <ora id="GEMAK131-B" típus="ELmélet">
     <targy>Valószinűség-számítás és matematikai statisztika</targy>
