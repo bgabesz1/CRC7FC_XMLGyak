@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE konyvek SYSTEM "BG_konyv.xsd">
-<konyvek>
+<!DOCTYPE konyvek SYSTEM "BG_konyv.dtd">
+<konyvek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="BG_konyv.xsd">
     <konyv id="asdfy">
         <cím>Excel 2019</cím>
         <kiadásiev>2021</kiadásiev>
