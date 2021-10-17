@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nevjegykartyak xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="BG_nevjegykartya.xsd">
+    <nevjegykartya>
+        <nev>Baranyi Gábor</nev>
+        <ceg>
+            <nev>Baranyi és Fia KFT.</nev>
+            <cim>
+                <iranyitoszam>3418</iranyitoszam>
+                <varos>Szentistván</varos>
+                <utca>Damjanich</utca>
+                <hazszam>46</hazszam>
+            </cim>
+            <telefonszam>06202264101</telefonszam>
+            <weblap>https://vanenet.eu/status</weblap>
+        </ceg>
+        <beosztas>Alkallmazott</beosztas>
+        <telefonszam>06204435235</telefonszam>
+        <email>bgabi1167@gmail.com</email>
+    </nevjegykartya>
+    <nevjegykartya>
+        <nev>Kiss József</nev>
+        <ceg>
+             <nev>Kiss és Társa KFT.</nev>
+            <cim>
+                 <iranyitoszam>3200</iranyitoszam>
+                 <varos>Mezőkövesd</varos>
+                 <utca>Alma</utca>
+                 <hazszam>23</hazszam>
+            </cim>
+            <telefonszam>06204344101</telefonszam>
+            <weblap>https://vanenet.eu/status</weblap>
+        </ceg>
+        <beosztas>Főnök</beosztas>
+        <telefonszam>06204435235</telefonszam>
+        <email>KissJ17@gmail.com</email>
+    </nevjegykartya>
+</nevjegykartyak>

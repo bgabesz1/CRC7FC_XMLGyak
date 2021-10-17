@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="qualified" elementFormDefault="qualified" >
+  <xs:element name="napok" type="napokType"/>
+  <xs:complexType name="idopontType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="nap" use="required"/>
+        <xs:attribute type="xs:string" name="tol" use="required"/>
+        <xs:attribute type="xs:string" name="ig" use="required"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="oraType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="targy"/>
+      <xs:element type="idopontType" name="idopont"/>
+      <xs:element type="xs:string" name="helyszin"/>
+      <xs:element type="xs:string" name="oktato"/>
+      <xs:element type="xs:string" name="szak"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="id" use="required"/>
+    <xs:attribute type="xs:string" name="típus" use="required"/>
+  </xs:complexType>
+  <xs:complexType name="hétfőType">
+    <xs:sequence>
+      <xs:element type="oraType" name="ora" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="keddType">
+    <xs:sequence>
+      <xs:element type="oraType" name="ora" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="szerdaType">
+    <xs:sequence>
+      <xs:element type="oraType" name="ora" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="csütörtökType">
+    <xs:sequence>
+      <xs:element type="oraType" name="ora"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="napokType">
+    <xs:sequence>
+      <xs:element type="hétfőType" name="hétfő"/>
+      <xs:element type="keddType" name="kedd"/>
+      <xs:element type="szerdaType" name="szerda"/>
+      <xs:element type="csütörtökType" name="csütörtök"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

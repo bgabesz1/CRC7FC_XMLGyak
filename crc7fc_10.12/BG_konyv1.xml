@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<könyvek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="BG_konyv1.xsd">
+    <könyv isbn="asd123">
+        <cím>Best figths ever</cím>
+        <szerző>Petőfi Sándor</szerző>
+        <szereplő>
+             <név>Baranyi Gábor</név>
+            <barátja>Natasha Fireblade</barátja>
+            <született>2001.03.22</született>
+            <jellemzés>Erős, menő</jellemzés>
+        </szereplő>
+        <másikszereplő>
+            <név>Natasha Fireblade</név>
+            <született>2002.10.20</született>
+            <jellemzés>Cuki, erős</jellemzés>
+        </másikszereplő>
+    </könyv>
+</könyvek>
