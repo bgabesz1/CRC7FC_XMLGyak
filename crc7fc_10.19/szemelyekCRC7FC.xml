@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE szemelyek SYSTEM "szemelyekCRC7FC.dtd">
+<szemelyek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="szemelyekCRC7FC.xsd">
+        <szemely id="1">
+            <nev>Nagy Mihály</nev>
+            <kor>10 év</kor>
+            <varos>TiszaújVáros</varos>
+        </szemely>
+        <szemely id="2">
+            <nev>Kis Leo</nev>
+            <kor>33 év</kor>
+            <varos>Miskolc</varos>
+        </szemely>
+        <szemely id="3">
+            <nev>Aranyosi Miki</nev>
+            <kor>19 év</kor>
+            <varos>TiszaújVáros</varos>
+        </szemely>
+</szemelyek>
