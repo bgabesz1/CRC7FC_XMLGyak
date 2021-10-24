@@ -1,4 +1,4 @@
-package SaxCRCZFC1020;
+package SaxCRC7FC1020;
 
 public class SaxCRC7FC {
     public SaxCRC7FC() {
