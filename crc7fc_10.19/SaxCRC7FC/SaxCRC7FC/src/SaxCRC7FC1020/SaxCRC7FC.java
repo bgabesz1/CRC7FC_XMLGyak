@@ -1,4 +1,4 @@
-package SaxCRCZFC1020;
+package SaxCRC7FC1020;
 
 import org.xml.sax.Attributes;
 import org.xml.sax.helpers.DefaultHandler;
