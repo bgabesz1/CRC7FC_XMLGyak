@@ -35,7 +35,7 @@ public class DomReadCRC7FC {
                     while(actualNode != null) {
                         if(actualNode.getNodeType() == Node.ELEMENT_NODE) {
                             Element actualElement = (Element)actualNode;
-                            System.out.println(" " + actualElement.getNodeName()+ ":" +actualElement.getTextContent());
+                            System.out.println(actualElement.getNodeName()+ ":" +actualElement.getTextContent());
                         }
                         actualNode = actualNode.getNextSibling();
                     }
