@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:element name="users" type="usersType"/>
+  <xs:complexType name="userType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="firstname"/>
+      <xs:element type="xs:string" name="lastname"/>
+      <xs:element type="xs:string" name="profession"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="id" use="required"/>
+  </xs:complexType>
+  <xs:complexType name="usersType">
+    <xs:sequence>
+      <xs:element type="userType" name="user" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
