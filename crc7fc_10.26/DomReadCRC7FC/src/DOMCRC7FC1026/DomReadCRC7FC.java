@@ -27,8 +27,10 @@ public class DomReadCRC7FC {
                 Node node = childNodes.item(i);
                 if(node.getNodeType() == Node.ELEMENT_NODE) {
                     Element element = (Element)node;
+                    String cur = element.getNodeName();
+                    System.out.println("current element: "+ cur);
                     String id = element.getAttribute("id");
-                    System.out.println("id: "+ id);
+                    System.out.println("User id: "+ id);
                     Node actualNode = element.getFirstChild();
                     while(actualNode != null) {
                         if(actualNode.getNodeType() == Node.ELEMENT_NODE) {
