@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users xmlns="domcrc7fc">
+  <user id="1">
+    <firstname>Gábor</firstname>
+    <lastname>Baranyi</lastname>
+    <profession>Hallgató</profession>
+  </user>
+  <user id="2">
+    <firstname>Csaba</firstname>
+    <lastname>Pipa</lastname>
+    <profession>Hallgató</profession>
+  </user>
+  <user id="3">
+    <firstname>Bence</firstname>
+    <lastname>Schmidt</lastname>
+    <profession>Hallgató</profession>
+  </user>
+</users>
