@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl "href="studentCRC7FC.xsl" ?>
+<class>
+    <student id="01">
+        <vezetéknév>Baranyi</vezetéknév>
+        <keresztnév>Gábor</keresztnév>
+        <becenév>Részeges kommandó</becenév>
+        <kor>20</kor>
+    </student>
+    <student id="02">
+        <vezetéknév>Nagy</vezetéknév>
+        <keresztnév>Máté</keresztnév>
+        <becenév>Sokatmondó nagydumás</becenév>
+        <kor>24</kor>
+    </student>
+    <student id="03">
+        <vezetéknév>Schmidt</vezetéknév>
+        <keresztnév>Bence</keresztnév>
+        <becenév>Kókuszpustító</becenév>
+        <kor>24</kor>
+    </student>
+</class>

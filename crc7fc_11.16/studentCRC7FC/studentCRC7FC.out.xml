@@ -1,0 +1,19 @@
+<html>
+    <body>
+        <h2>Halgat&oacute;i adatok</h2>
+        <table border="1">
+            <tr bgcolor="#9acd32">
+                <th style="text-align:left">id</th><th style="text-align:left">vezeteknev</th><th style="text-align:left">keresztnev</th><th style="text-align:left">becenev</th><th style="text-align:left">kor</th>
+            </tr>
+            <tr>
+                <td>01</td><td>Baranyi</td><td>G&aacute;bor</td><td>R&eacute;szeges kommand&oacute;</td><td>20</td>
+            </tr>
+            <tr>
+                <td>02</td><td>Nagy</td><td>M&aacute;t&eacute;</td><td>Sokatmond&oacute; nagydum&aacute;s</td><td>24</td>
+            </tr>
+            <tr>
+                <td>03</td><td>Schmidt</td><td>Bence</td><td>K&oacute;kuszpust&iacute;t&oacute;</td><td>24</td>
+            </tr>
+        </table>
+    </body>
+</html>
