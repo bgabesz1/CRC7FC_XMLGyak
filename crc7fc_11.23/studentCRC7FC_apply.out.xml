@@ -1,0 +1,54 @@
+<html>
+    <body>
+        <h2>Hallgatok apple-template</h2>
+            
+        <p>
+                    ID : <span style="color:black">01</span>
+            <br>
+                    Vezet&eacute;kn&eacute;v : <span style="color:green">Baranyi</span>
+            <br>
+                    Keresztn&eacute;v : <span style="color:brown">G&aacute;bor</span>
+            <br>
+                    Becen&eacute;v : <span style="color:blue">R&eacute;szeges kommand&oacute;</span>
+            <br>
+                    Kor : <span style="color:blue">20</span>
+            <br>
+                    Fizet&eacute;s : <span style="color:red">600000</span>
+            <br>
+            <br>
+        </p>
+            
+        <p>
+                    ID : <span style="color:black">02</span>
+            <br>
+                    Vezet&eacute;kn&eacute;v : <span style="color:green">Nagy</span>
+            <br>
+                    Keresztn&eacute;v : <span style="color:brown">M&aacute;t&eacute;</span>
+            <br>
+                    Becen&eacute;v : <span style="color:blue">Sokatmond&oacute; nagydum&aacute;s</span>
+            <br>
+                    Kor : <span style="color:blue">24</span>
+            <br>
+                    Fizet&eacute;s : <span style="color:red">550000</span>
+            <br>
+            <br>
+        </p>
+            
+        <p>
+                    ID : <span style="color:black">03</span>
+            <br>
+                    Vezet&eacute;kn&eacute;v : <span style="color:green">Schmidt</span>
+            <br>
+                    Keresztn&eacute;v : <span style="color:brown">Bence</span>
+            <br>
+                    Becen&eacute;v : <span style="color:blue">K&oacute;kuszpust&iacute;t&oacute;</span>
+            <br>
+                    Kor : <span style="color:blue">24</span>
+            <br>
+                    Fizet&eacute;s : <span style="color:red">450000</span>
+            <br>
+            <br>
+        </p>
+        
+    </body>
+</html>
